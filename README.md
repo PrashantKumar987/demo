@@ -1,3 +1,3 @@
 # demo
-This is demo project
+This is first demo project
 
